@@ -1,4 +1,4 @@
 # sspiders
 my first git repo
 <br>
-Author-Arun
+Author-Arun [S Spiders]
